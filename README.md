@@ -1,5 +1,8 @@
 # Domain Marketplace on Stellar Soroban
 
+
+<img width="1710" height="991" alt="Screenshot 2026-03-27 at 1 35 05 PM" src="https://github.com/user-attachments/assets/89553f37-0a4a-4034-a6d6-e04511871511" />
+
 ## 🚀 Project Description
 
 This project is a decentralized Domain Marketplace built using Soroban smart contracts on the Stellar blockchain. It allows users to register, buy, and sell domain names in a trustless and transparent environment.
@@ -87,7 +90,7 @@ soroban contract deploy \
 - ENS-like name resolution
 
 ---
-<img width="1710" height="991" alt="Screenshot 2026-03-27 at 1 35 05 PM" src="https://github.com/user-attachments/assets/89553f37-0a4a-4034-a6d6-e04511871511" />
+
 
 
 ## 📜 License
