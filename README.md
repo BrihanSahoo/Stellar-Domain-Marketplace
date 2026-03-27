@@ -1,7 +1,15 @@
-# Domain Marketplace on Stellar Soroban
+# 🌐 Domain Marketplace on Stellar Soroban
 
+<p align="center">
+  <img width="1710" height="991" alt="Domain Marketplace Screenshot" src="https://github.com/user-attachments/assets/89553f37-0a4a-4034-a6d6-e04511871511" />
+</p>
 
-<img width="1710" height="991" alt="Screenshot 2026-03-27 at 1 35 05 PM" src="https://github.com/user-attachments/assets/89553f37-0a4a-4034-a6d6-e04511871511" />
+<p align="center">
+  <strong>🔗 Contract Address (Stellar Testnet)</strong><br/>
+  <code>GCJV5DYOTJEUBRNYDKRAUKFBJHLWXQPU775HAUIKHJBEJQGPQCH5YYMZ</code>
+</p>
+
+---
 
 ## 🚀 Project Description
 
@@ -13,87 +21,38 @@ The system eliminates intermediaries and ensures ownership is verifiable on-chai
 
 ## ⚙️ What It Does
 
-- Users can register unique domain names
-- Domain owners can list domains for sale
-- Buyers can purchase domains directly
-- Ownership is securely stored on-chain
+- Users can register unique domain names  
+- Domain owners can list domains for sale  
+- Buyers can purchase domains directly  
+- Ownership is securely stored on-chain  
 
 ---
 
 ## ✨ Features
 
 ### 1. Domain Registration
-- Register unique domain names
-- Prevent duplicate registrations
+- Register unique domain names  
+- Prevent duplicate registrations  
 
 ### 2. Buy Domains
-- Transfer ownership securely
-- Ensures domain is available for sale
+- Transfer ownership securely  
+- Ensures domain is available for sale  
 
 ### 3. Sell Domains
-- Owners can list domains with price
-- Update price anytime
+- Owners can list domains with price  
+- Update price anytime  
 
 ### 4. Ownership Tracking
-- Blockchain-based ownership
-- Transparent and immutable records
+- Blockchain-based ownership  
+- Transparent and immutable records  
 
 ---
 
 ## 🧱 Tech Stack
 
-- Soroban SDK (Rust)
-- Stellar Blockchain
+- Soroban SDK (Rust)  
+- Stellar Blockchain  
 
 ---
 
 ## 📦 Project Structure
-
-```
-├── src/
-│   └── lib.rs   # Smart contract
-├── Cargo.toml
-└── README.md
-```
-
----
-
-## 🛠️ Setup Instructions
-
-### Prerequisites
-- Rust installed
-- Soroban CLI installed
-
-### Install Soroban CLI
-```
-cargo install soroban-cli
-```
-
-### Build Contract
-```
-cargo build --target wasm32-unknown-unknown --release
-```
-
-### Deploy Contract
-```
-soroban contract deploy \
-  --wasm target/wasm32-unknown-unknown/release/domain_marketplace.wasm
-```
-
----
-
-## 🔐 Future Improvements
-
-- Add payment handling using Stellar tokens
-- Auction-based domain selling
-- Domain expiration system
-- ENS-like name resolution
-
----
-
-
-
-## 📜 License
-
-MIT License
-*/
