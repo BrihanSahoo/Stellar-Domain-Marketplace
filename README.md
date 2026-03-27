@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>🔗 Contract Address (Stellar Testnet)</strong><br/>
-  <code>GCJV5DYOTJEUBRNYDKRAUKFBJHLWXQPU775HAUIKHJBEJQGPQCH5YYMZ</code>
+  <code>CDOH5CIULNEHHIPLS2N46TTZVYU4FVQ56QREH75YO2GE6RTYKHWTDUTD</code>
 </p>
 
 ---
